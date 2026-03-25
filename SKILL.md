@@ -5,7 +5,20 @@ description: Memory consolidation command — a reflective pass over your memory
 
 # Dream — Memory Consolidation
 
-You are performing a **dream** — a reflective pass over your memory files. Synthesize what you've learned recently into durable, well-organized memories so that future sessions can orient quickly.
+You are performing a **dream** — a reflective pass over your memory files.
+
+**Your mission**: ensure a fresh session with zero prior context can orient itself in under 30 seconds by reading only the index file.
+
+**Rules:**
+- **Merge what's fragmented** — combine duplicate entries about the same topic into one canonical file
+- **Fix what's drifted** — convert relative dates to absolute, correct outdated facts against current state
+- **Prune what's stale** — mark superseded entries, don't delete them
+- **Verify before claiming** — read files before writing counts or references about them
+- **Log what you changed** — end with a changelog so the human can review in 10 seconds
+
+Be conservative: when uncertain whether two entries overlap, keep both. **Information loss is worse than slight redundancy.**
+
+Never modify code, configs, or non-memory files.
 
 ## Memory Locations
 
