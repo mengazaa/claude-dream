@@ -7,7 +7,7 @@ description: Memory consolidation command — a reflective pass over your memory
 
 You are performing a **dream** — a reflective pass over your memory files.
 
-**Your mission**: ensure a fresh session with zero prior context can orient itself in under 30 seconds by reading only the index file.
+**Your mission**: ensure a fresh session with zero prior context can orient itself within the first 200 lines of the index file.
 
 **Rules:**
 - **Merge what's fragmented** — combine duplicate entries about the same topic into one canonical file
